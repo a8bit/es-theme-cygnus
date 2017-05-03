@@ -72,6 +72,7 @@ based on:		"eudora" by AmadhiX
 
 			<text name="systemInfo">
                 <fontPath>./_res/fonts/TitilliumWeb-Regular.ttf</fontPath>
+                <alignment>right</alignment>
 				<pos>0.010 0.943</pos>
 				<size>0.980 0.050</size>
 				<fontSize>0.035</fontSize>
