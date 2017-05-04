@@ -3,10 +3,6 @@
 ## EmulationStation Theme: Cygnus
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus come in three colour schemes, 'cygnus' 'mono' and 'terminal'.
 
-![Cygnus](http://choccyhobnob.github.io/img/cygnus/cygnus.jpg)
-![mono](http://choccyhobnob.github.io/img/cygnus/mono.jpg)
-![terminal](http://choccyhobnob.github.io/img/cygnus/terminal.jpg)
-
 ### Installing Cygnus
 ssh onto your RetroPie install and enter the following:
 
@@ -50,6 +46,10 @@ other useful ones are:-
 There are lots of these, look at the folder names for a list of all the available systems!
 
 ### Screenshots
+![Cygnus](http://choccyhobnob.github.io/img/cygnus/cygnus.jpg)
+![mono](http://choccyhobnob.github.io/img/cygnus/mono.jpg)
+![terminal](http://choccyhobnob.github.io/img/cygnus/terminal.jpg)
+
 ![basic](http://choccyhobnob.github.io/img/cygnus/basic.jpg)
 ![detail](http://choccyhobnob.github.io/img/cygnus/detail.jpg)
 ![video](http://choccyhobnob.github.io/img/cygnus/video.jpg)
