@@ -4,9 +4,9 @@
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus come in three colour schemes, 'cygnus' 'mono' and 'terminal'.
 
 ### Installing Cygnus
-ssh onto your RetroPie install and enter the following:
-
-`cd /etc/emulationstation/themes`
+ssh onto your RetroPie install and enter the following:    
+    
+`cd /etc/emulationstation/themes`    
 `sudo git clone --depth=1 https://github.com/ChoccyHobNob/es-theme-cygnus.git cygnus`
 
 It will now be choosable from the ui options menu in emulationstation
@@ -27,18 +27,18 @@ simpleart.xml          <--- Large art, no overlayed boxart or marquee images.
 simpleart-nometa.xml   <--- Minimal theme with just a gamelist and large art.  
 
 ### Platform Specific Themes
-Cygnus comes with a large number of defined systems, more than even the default carbon theme. these will either be used when you install the emulator for a sytem and add some roms or you can choose them yourself for your existing systems. 
+Cygnus comes with a large number of defined systems, more than even the default carbon theme. these will either be used when you install the emulator for a sytem and add some roms or you can choose them yourself for your existing systems.
 
 This is useful if you want to override the display of systems to match your region and things like that. For example, by default Cygnus uses a picture of the USA SNES console and logo for the snes system; you can chage this behaviour by telling it to use either the 'sfc' theme or the 'snes-pal' theme to get the correct console and logo for you.
 
-Create a file in `/opt/retropie/configs/all/platforms.cfg` if it doesn't already exist. Edit the file and add lines to it in the format \<system\>_theme="\<themename\>" so in our example above I could add 
+Create a file in `/opt/retropie/configs/all/platforms.cfg` if it doesn't already exist. Edit the file and add lines to it in the format \<system\>_theme="\<themename\>" so in our example above I could add
 
 `snes_theme="sfc"`  
 or    
 `snes_theme="snes-pal"`    
-    
-other useful ones are:- 
-    
+
+other useful ones are:-
+
 `megadrive_theme="genesis"`    
 `pcengine_theme="tg16"`    
 `nes_theme="famicom"`    
