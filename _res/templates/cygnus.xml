@@ -167,7 +167,7 @@
         </image>
     </view>
 
-<!--    <feature supported="video"> -->
+<feature supported="video">
 
     <view name="video">
         <video name="md_video">
@@ -190,5 +190,6 @@
             <maxSize>0.22 0.22</maxSize>
         </image>
     </view>
+</feature>
 
 </theme>

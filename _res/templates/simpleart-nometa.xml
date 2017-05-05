@@ -120,7 +120,7 @@
             </image>
         </view>
 
-    <!--    <feature supported="video"> -->
+<feature supported="video">
 
         <view name="video">
             <image name="md_marquee">
@@ -137,5 +137,6 @@
                 <showSnapshotDelay>false</showSnapshotDelay>
             </video>
         </view>
+</feature>
 
 </theme>

@@ -57,7 +57,7 @@ based on:		"eudora" by AmadhiX
 
     <!-- Custom Carousel System View -->
 
-    <!-- <feature supported="carousel"> -->
+    <feature supported="carousel">
 
 		<view name="system">
 
@@ -80,7 +80,7 @@ based on:		"eudora" by AmadhiX
 
 		</view>
 
-	<!-- </feature> -->
+	</feature> 
 
     <!-- Game View - All -->
     <view name="basic, detailed, video, grid">
