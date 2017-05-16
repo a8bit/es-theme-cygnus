@@ -8,8 +8,9 @@ Cygnus is a clean theme that displays large preview images, videos, marquees,  a
 ### Installing Cygnus
 ssh onto your RetroPie install and enter the following:    
 
-`cd /etc/emulationstation/themes`    
-`sudo git clone --depth=1 https://github.com/ChoccyHobNob/es-theme-cygnus.git cygnus`
+`mkdir -p ~/.emulationstation/themes`    
+`cd ~/.emulationstation/themes`    
+`git clone --depth=1 https://github.com/ChoccyHobNob/es-theme-cygnus.git cygnus`
 
 It will now be choosable from the ui options menu in emulationstation
 
