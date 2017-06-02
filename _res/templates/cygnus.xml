@@ -183,11 +183,13 @@
             <pos>0.48 0.30</pos>
             <origin>0 0.5</origin>
             <maxSize>0.3 0.20</maxSize>
+			<zIndex>40</zIndex>
         </image>
         <image name="md_image">
             <origin>0.5 0.5</origin>
             <pos>0.55 0.8</pos>
             <maxSize>0.22 0.22</maxSize>
+			<zIndex>40</zIndex>
         </image>
     </view>
 </feature>
