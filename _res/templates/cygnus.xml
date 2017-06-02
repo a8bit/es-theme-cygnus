@@ -170,16 +170,7 @@
 <feature supported="video">
 
     <view name="video">
-        <video name="md_video">
-           <origin>0.5 0.5</origin>
-            <pos>0.75 0.55</pos>
-            <maxSize>0.5 0.5</maxSize>
-            <delay>0.01</delay>
-            <default>./../images/static.mp4</default>
-            <showSnapshotNoVideo>true</showSnapshotNoVideo>
-            <showSnapshotDelay>false</showSnapshotDelay>
-        </video>
-        <image name="md_marquee">
+         <image name="md_marquee">
             <pos>0.48 0.30</pos>
             <origin>0 0.5</origin>
             <maxSize>0.3 0.20</maxSize>
@@ -191,6 +182,16 @@
             <maxSize>0.22 0.22</maxSize>
 			<zIndex>40</zIndex>
         </image>
+       <video name="md_video">
+           <origin>0.5 0.5</origin>
+            <pos>0.75 0.55</pos>
+            <maxSize>0.5 0.5</maxSize>
+            <delay>0.01</delay>
+            <default>./../images/static.mp4</default>
+            <showSnapshotNoVideo>true</showSnapshotNoVideo>
+            <showSnapshotDelay>false</showSnapshotDelay>
+			<zIndex>30</zIndex>
+        </video>
     </view>
 </feature>
 
