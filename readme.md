@@ -6,6 +6,9 @@ Cygnus is a clean theme that displays large preview images, videos, marquees,  a
 **NOTE: Cygnus uses cutting edge features. You will need the latest official emulaionstation for the video, marquee, and carousel features to work correctly. Update from the RetroPie setup menu, manage packages, core, emulationstation.**
 
 ### Installing Cygnus
+
+#### _UPDATE: Cygnus is now included in the theme installer in retropie-setup so that's probably the easiest way to install it!_
+
 ssh onto your RetroPie install and enter the following:    
 
 `mkdir -p ~/.emulationstation/themes`    
