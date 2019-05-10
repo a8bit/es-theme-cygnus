@@ -1,4 +1,4 @@
-![splash](http://choccyhobnob.github.io/img/cygnus/splash.jpg)
+![splash](https://choccyhobnob.com/dl/img/cygnus/splash.jpg)
 
 ## EmulationStation Theme: Cygnus
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus comes in three colour schemes, 'cygnus' 'mono' and 'terminal'.
@@ -7,12 +7,10 @@ Cygnus is a clean theme that displays large preview images, videos, marquees,  a
 
 ### Installing Cygnus
 
-#### _UPDATE: Cygnus is now included in the theme installer in retropie-setup so that's probably the easiest way to install it!_
+ssh onto your RetroPie install and enter the following:
 
-ssh onto your RetroPie install and enter the following:    
-
-`mkdir -p ~/.emulationstation/themes`    
-`cd ~/.emulationstation/themes`    
+`mkdir -p ~/.emulationstation/themes`
+`cd ~/.emulationstation/themes`
 `git clone --depth=1 https://github.com/ChoccyHobNob/es-theme-cygnus.git cygnus`
 
 It will now be choosable from the ui options menu in emulationstation
@@ -22,15 +20,15 @@ There are two files included below by the config.xml file, one is a colorset, th
 Valid changes you can make here are as follows.
 
 #### Colorsets
-cygnus.xml             <--- This is the default blue colorscheme.  
-mono.xml               <--- This is a black and grey colorscheme.  
-terminal.xml           <--- This is a green colorscheme.  
+cygnus.xml             <--- This is the default blue colorscheme.
+mono.xml               <--- This is a black and grey colorscheme.
+terminal.xml           <--- This is a green colorscheme.
 
 #### Templates
-cygnus.xml             <--- All bells & whistles. Lots of metadata, lots of art.  
-nometa.xml             <--- No metadata, all text except gamelist removed.  
-simpleart.xml          <--- Large art, no overlayed boxart or marquee images.  
-simpleart-nometa.xml   <--- Minimal theme with just a gamelist and large art.  
+cygnus.xml             <--- All bells & whistles. Lots of metadata, lots of art.
+nometa.xml             <--- No metadata, all text except gamelist removed.
+simpleart.xml          <--- Large art, no overlayed boxart or marquee images.
+simpleart-nometa.xml   <--- Minimal theme with just a gamelist and large art.
 
 ### Platform Specific Themes
 Cygnus comes with a large number of defined systems, more than even the default carbon theme. these will either be used when you install the emulator for a sytem and add some roms or you can choose them yourself for your existing systems.
@@ -39,26 +37,26 @@ This is useful if you want to override the display of systems to match your regi
 
 Create a file in `/opt/retropie/configs/all/platforms.cfg` if it doesn't already exist. Edit the file and add lines to it in the format \<system\>_theme="\<themename\>" so in our example above I could add
 
-`snes_theme="sfc"`  
-or    
-`snes_theme="snes-pal"`    
+`snes_theme="sfc"`
+or
+`snes_theme="snes-pal"`
 
 other useful ones are:-
 
-`megadrive_theme="genesis"`    
-`pcengine_theme="tg16"`    
-`nes_theme="famicom"`    
+`megadrive_theme="genesis"`
+`pcengine_theme="tg16"`
+`nes_theme="famicom"`
 
 There are lots of these, look at the folder names for a list of all the available systems!
 
 ### Screenshots
-![Cygnus](http://choccyhobnob.github.io/img/cygnus/cygnus.jpg)
-![mono](http://choccyhobnob.github.io/img/cygnus/mono.jpg)
-![terminal](http://choccyhobnob.github.io/img/cygnus/terminal.jpg)
+![Cygnus](https://choccyhobnob.com/dl/img/cygnus/cygnus.jpg)
+![mono](https://choccyhobnob.com/dl/img/cygnus/mono.jpg)
+![terminal](https://choccyhobnob.com/dl/img/cygnus/terminal.jpg)
 
-![basic](http://choccyhobnob.github.io/img/cygnus/basic.jpg)
-![detail](http://choccyhobnob.github.io/img/cygnus/detail.jpg)
-![video](http://choccyhobnob.github.io/img/cygnus/video.jpg)
+![basic](https://choccyhobnob.com/dl/img/cygnus/basic.jpg)
+![detail](https://choccyhobnob.com/dl/img/cygnus/detail.jpg)
+![video](https://choccyhobnob.com/dl/img/cygnus/video.jpg)
 
 ### Credits
 All xml, and some images created by Steve Boswell (ChoccyHobNob).
