@@ -1,4 +1,4 @@
-![splash](https://choccyhobnob.com/dl/img/cygnus/splash.jpg)  
+![splash](https://atari8bit.net/wp-content/uploads/cygnus.jpg)  
   
 ## EmulationStation Theme: Cygnus  
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus comes in three colour schemes, 'cygnus' 'mono' and 'terminal'.  
@@ -11,7 +11,7 @@ ssh onto your RetroPie install and enter the following:
   
 `mkdir -p ~/.emulationstation/themes`  
 `cd ~/.emulationstation/themes`  
-`git clone --depth=1 https://github.com/ChoccyHobNob/es-theme-cygnus.git cygnus`  
+`git clone --depth=1 https://github.com/TheRobotFactory/es-theme-cygnus.git cygnus`  
   
 It will now be choosable from the ui options menu in emulationstation  
   
@@ -50,13 +50,13 @@ other useful ones are:-
 There are lots of these, look at the folder names for a list of all the available systems!  
   
 ### Screenshots  
-![Cygnus](https://choccyhobnob.com/dl/img/cygnus/cygnus.jpg)  
-![mono](https://choccyhobnob.com/dl/img/cygnus/mono.jpg)  
-![terminal](https://choccyhobnob.com/dl/img/cygnus/terminal.jpg)  
+![Cygnus](https://atari8bit.net/wp-content/uploads/cygnus.jpg)  
+![mono](https://atari8bit.net/wp-content/uploads/mono.jpg)  
+![terminal](https://atari8bit.net/wp-content/uploads/terminal.jpg)  
   
-![basic](https://choccyhobnob.com/dl/img/cygnus/basic.jpg)  
-![detail](https://choccyhobnob.com/dl/img/cygnus/detail.jpg)  
-![video](https://choccyhobnob.com/dl/img/cygnus/video.jpg)  
+![basic](https://atari8bit.net/wp-content/uploads/basic.jpg)  
+![detail](https://atari8bit.net/wp-content/uploads/detail.jpg)  
+![video](https://atari8bit.net/wp-content/uploads/video.jpg)  
   
 ### Credits  
 All xml, and some images created by Steve Boswell (ChoccyHobNob).  
