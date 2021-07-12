@@ -1,5 +1,3 @@
-![splash](https://atari8bit.net/wp-content/uploads/cygnus.jpg)  
-  
 ## EmulationStation Theme: Cygnus  
 Cygnus is a clean theme that displays large preview images, videos, marquees,  all title-oriented metadata and some useful user-oriented metadata. Cygnus comes in three colour schemes, 'cygnus' 'mono' and 'terminal'.  
   
